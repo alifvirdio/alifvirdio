@@ -71,8 +71,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/alifvirdio/SkinSense_Classification-and-Detection-Skin-Disease.git">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=alifvirdio&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/alifvirdio/SkinSense_Classification-and-Detection-Skin-Disease">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=alifvirdio&repo=SkinSense_Classification-and-Detection-Skin-Disease&theme=nightowl&show_owner=true" alt="Bangkit Academy Project" />
         </a>
       </p>
     </td>
