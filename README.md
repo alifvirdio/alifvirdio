@@ -12,7 +12,7 @@
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I’m a student from Politeknik Elektronika Negeri Surabaya majoring in Telecommunication Engineering
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
@@ -31,7 +31,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,pytorch,ultralytics,tensorflow,cpp,git,vscode,docker,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,pytorch,ubuntu,tensorflow,opencv,cpp,git,vscode,docker,linux&perline=10"  />
 </p>
 <br />
 
